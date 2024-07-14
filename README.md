@@ -1,2 +1,1 @@
-# -Courses-Management-
-
+# courses-app
